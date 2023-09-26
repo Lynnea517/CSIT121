@@ -1,7 +1,8 @@
-body{color:darkred; background-color:#f5d6b5;margin-left: auto}
-h1{color:#8a3f2b;}
+body{color:darkred; background-color:#f5d6b5;margin-left: auto; background-image:linear-gradient(to bottom, #e6bbb8, #ad3636);}
+h1{color:#8a3f2b;border: 3px ridge #330000; border-radius: 15px;}
 ul{color:#8a3f2b;text-transform:capitalize;}
 ul{font-family:tahoma;font-style:italic;}
 ol{font-size:20px;}
 p{font-style:italic;color:darkred;}
 a{color:darkred;font-family:sans-serif;background-color:#deb1ad; }
+img{border-radius:8px}
