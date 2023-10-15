@@ -1,0 +1,6 @@
+body{background-color:#b88cc2; color:#05294a;text-align:center; margin-block-start:2em; font-size:20px;}
+h1{background-color:#ebbcd9; text-align:center;border: 10px groove #140014; border-radius: 25px;font-size:55px}
+footer{background-color:#ebbcd9;text-align:center; border: 10px groove #140014;}
+img{border-radius:5px;height:800px; margin:25px;}
+.topnav{background-color:#ebbcd9; overflow:hidden; padding:14px; margin:20px; word-spacing:30px;}
+.topnav a {color:#05294a;}
