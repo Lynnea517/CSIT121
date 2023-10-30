@@ -20,7 +20,7 @@ width:68%;
 float:left;}
 div.paragraph{border: 15px solid;
 padding:10px;
-  margin:70px;
+margin:70px;
 width:80%;
 float:left;}
-@media all (min-width: 600px) and (max-width:780px)
+@media all (min-width: 600px) and (max-width:780px) {body}
