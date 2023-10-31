@@ -1,5 +1,8 @@
-@media all (min-width: 600px) and (max-width:780px) {
+@media screen(max-width: 768px) {
+}
 body{color:darkred; background-color:#f5d6b5;margin-left: auto; background-image:linear-gradient(to bottom, #e6bbb8, #ad3636);}
+}
+body {display:flex; min-height:100vh; justify-content: center; align-items:center;}
 h1{color:#8a3f2b;border: 3px ridge #330000; border-radius: 15px;}
 ul{color:#8a3f2b;text-transform:capitalize;}
 ul{font-family:tahoma;font-style:italic;}
@@ -24,4 +27,3 @@ padding:10px;
 margin:70px;
 width:80%;
 float:left;}
-}
