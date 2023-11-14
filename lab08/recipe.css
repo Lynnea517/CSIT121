@@ -150,4 +150,4 @@ p {
   border-bottom: 30px solid black;
 }
 
-div.form{border: 15px solid; padding: 20px; width:20%; float:right;}
+div.form{border: 15px solid; padding:20px; margin:20px; width:20%; float:right;}
