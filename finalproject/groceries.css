@@ -1,0 +1,8 @@
+body{background-color:#240303;color:#c9a3a3;text-align:center; margin-block-start:2em; font-size:20px; font-family: 'EB Garamond' ;}
+h1{background-color:#240303; text-align:center;border: 5px ridge #c9a3a3; border-style: solid;border-radius: 5px;font-size:55px;}
+footer{background-color:#240303;text-align:center; border: 10px groove #c9a3a3;}
+img{border-radius:5px; margin:25px; max-width: 40%; max-height:5%}
+.topnav{background-color:#240303; overflow:hidden; padding:14px; margin:20px; word-spacing:5px;}
+.topnav a {color:#c9a3a3;}
+table, th, td { border: 1px solid;}
+@media only screen and (max-width: 768px){body{font-size: 16px} h1{font-size: 40px} img{max-width: 100%;max-height: 100%;}}
